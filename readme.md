@@ -1,9 +1,4 @@
-11:49:44.294: [st5188pg16] git -c credential.helper= -c core.quotepath=false -c log.showSignature=false push --progress
---porcelain origin refs/heads/master:master
-fatal: unable to access 'https://github.com/WhyCitrus/st5188pg16_deepfake-speech-recognition.git/': Failed to connect to
-github.com port 443 after 21053 ms: Could not connect to server
-fatal: unable to access 'https://github.com/WhyCitrus/st5188pg16_deepfake-speech-recognition.git/': Failed to connect to
-github.com port 443 after 21053 ms: Could not connect to server# DeepFake Recognition for Celebrities🚀️
+# DeepFake Recognition for Celebrities🚀️
 
 This is the code repository for deep fake audio recognition of st5188 PG16.
 
