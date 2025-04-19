@@ -1,0 +1,7 @@
+# Run this script to set up the environment via conda-forge
+
+# create the environment
+conda env create -f environment.yml
+
+# update the environment
+conda env update -f environment.yml --prune

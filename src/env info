@@ -1,0 +1,42 @@
+=== Python version ===
+3.10.16 | packaged by conda-forge | (main, Dec  5 2024, 14:16:10) [GCC 13.3.0]
+
+=== Python parameters ===
+CC: gcc -pthread -B /opt/conda/compiler_compat
+CXX: g++ -pthread -B /opt/conda/compiler_compat
+BASECFLAGS: -Wno-unused-result -Wsign-compare
+EXE:
+VERSION: 3.10
+
+=== CPU info ===
+Processor:
+Machine: x86_64
+Platform: Linux-5.10.0-34-cloud-amd64-x86_64-with-glibc2.31
+CPU number: 32
+
+=== GPU info ===
+Tue Apr 15 02:24:26 2025
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 550.90.07              Driver Version: 550.90.07      CUDA Version: 12.4     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA L4                      On  |   00000000:00:03.0 Off |                    0 |
+| N/A   42C    P8             17W /   72W |       1MiB /  23034MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI        PID   Type   Process name                              GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+
+
+=== platform info ===
+Platform: Linux-5.10.0-34-cloud-amd64-x86_64-with-glibc2.31
+Processor:
